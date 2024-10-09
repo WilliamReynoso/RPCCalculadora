@@ -11,5 +11,6 @@ Luego ejecutamos el cliente y hacemos solicitudes en base a nuestras necesidades
 
 ![imagen](https://github.com/user-attachments/assets/7a9e8315-db96-43bb-87ac-4cf481c26c56)
 
+
 El servidor registra las solicitudes del cliente
 ![imagen](https://github.com/user-attachments/assets/5d9141ef-2616-4110-b31b-3812df30804f)
